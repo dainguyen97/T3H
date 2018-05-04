@@ -1,0 +1,6 @@
+Họ và tên: Nguyễn Ngọc Đại
+Trường: Học viện Công nghệ Bưu Chính Viễn Thông
+Chuyên ngành ở trường: Công nghệ phần mềm
+Năm thứ: 3
+Các ngôn ngữ đã học ở trường: Java
+Ngôn ngữ đã biết: HTML, CSS, JavaCore (level: newbee)
